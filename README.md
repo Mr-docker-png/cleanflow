@@ -449,7 +449,7 @@ The exact files generated depend on the structure of the input dataset.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CleanFlow.git
+git clone https://github.com/Mr-docker-png/cleanflow.git
 ```
 
 Then move into the project directory:
